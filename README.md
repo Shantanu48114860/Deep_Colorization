@@ -89,12 +89,12 @@ The following hyperparameters have been considered:
 These have been defined inside the `Utils` class under `get_hyperparameters()` .  The parameters are defined as a dictionary and the function returns a list having the list of parameters respectively. Following this, during runtime, using `itertools.product` to generate a cartesian product of the list of hyperparameters, the training has been done for each set of hyperparameters. 
 
 ## Generated output with Sigmoid activation function
-For every triplet, from left to right are gray scale, original and colored reconstructed images 
-<img src="https://github.com/Shantanu48114860/Deep_Colorization/blob/master/Report_Supplementary/Sigmoid.pdf">
+For every triplet, from left to right are gray scale, original and colored reconstructed images <br/>
+<img src="https://github.com/Shantanu48114860/Deep_Colorization/blob/master/Report_Supplementary/Sigmoid.jpg">
 
 ## Generated output with Tanh activation function
-For every triplet, from left to right are gray scale, original and colored reconstructed images 
-<img src="https://github.com/Shantanu48114860/Deep_Colorization/blob/master/Report_Supplementary/tanh.pdf">
+For every triplet, from left to right are gray scale, original and colored reconstructed images <br/>
+<img src="https://github.com/Shantanu48114860/Deep_Colorization/blob/master/Report_Supplementary/tanh.jpg">
 
 
 
