@@ -1,7 +1,7 @@
 # Deep Color
 
 ## Overview
-In this project, a CNN is created which is trained to color a gray scale face images. The whole project is developed in pytorch. 
+In this project, a CNN is created which is trained to color a grayscale face images. The whole project is developed in pytorch. 
 
 ## Project Requirement
 The project requirement will be found at [here](https://github.com/Shantanu48114860/Deep_Colorization/blob/master/PartII_DeepColorization.pdf).
