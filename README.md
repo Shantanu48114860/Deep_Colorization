@@ -1,7 +1,27 @@
 # Deep Color
 
+## Overview
+In this project, a CNN is created which is trained to color a gray scale face images. The whole project is developed in pytorch. 
+
 ## Project Requirement
 The project requirement will be found at [here](https://github.com/Shantanu48114860/Deep_Colorization/blob/master/PartII_DeepColorization.pdf).
+
+## Requirements and versions
+pytorch - 1.3.1 <br/>
+numpy - 1.17.2 <br/>
+pandas - 0.25.1 <br/>
+scikit - 0.21.3 <br/>
+matplotlib - 3.1.1 <br/>
+python -  3.7.4 <br/>
+
+
+## Dependencies
+[python 3.7.7](https://www.python.org/downloads/release/python-374/)
+
+[pytorch 1.3.1](https://pytorch.org/get-started/previous-versions/)
+
+## Dataset
+The dataset will be found at [here](https://github.com/Shantanu48114860/Deep_Colorization/tree/master/DeepColor/face_images).
 
 ## Program Execution
 
