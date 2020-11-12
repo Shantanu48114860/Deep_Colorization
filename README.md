@@ -1,5 +1,8 @@
 # Deep Color
 
+## Project Requirement
+The project requirement will be found at [here](https://github.com/Shantanu48114860/Deep_Colorization/blob/master/PartII_DeepColorization.pdf).
+
 ## Program Execution
 
 ```shell
@@ -96,7 +99,7 @@ For every triplet, from left to right are gray scale, original and colored recon
 For every triplet, from left to right are gray scale, original and colored reconstructed images <br/>
 <img src="https://github.com/Shantanu48114860/Deep_Colorization/blob/master/Report_Supplementary/tanh.jpg">
 
-## Report
+## Project Report
 The detailed report will be found at [here](https://github.com/Shantanu48114860/Deep_Colorization/blob/master/Report.pdf).
 
 
