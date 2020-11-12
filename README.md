@@ -97,7 +97,7 @@ For every triplet, from left to right are gray scale, original and colored recon
 <img src="https://github.com/Shantanu48114860/Deep_Colorization/blob/master/Report_Supplementary/tanh.jpg">
 
 ## Report
-The detailed report will be found at[here]https://github.com/Shantanu48114860/Deep_Colorization/blob/master/Report.pdf.
+The detailed report will be found at[here](https://github.com/Shantanu48114860/Deep_Colorization/blob/master/Report.pdf).
 
 
 ## Contributors
