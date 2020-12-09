@@ -6,6 +6,9 @@ In this project, a CNN is created which is trained to color grayscale face image
 ## Project Requirement
 The project requirement will be found at [here](https://github.com/Shantanu48114860/Deep_Colorization/blob/master/PartII_DeepColorization.pdf).
 
+## Project Report
+The detailed report will be found at [here](https://github.com/Shantanu48114860/Deep_Colorization/blob/master/Report.pdf).
+
 ## Requirements and versions
 pytorch - 1.3.1 <br/>
 numpy - 1.17.2 <br/>
@@ -118,9 +121,6 @@ For every triplet, from left to right are gray scale, original and colored recon
 ## Generated output with Tanh activation function
 For every triplet, from left to right are gray scale, original and colored reconstructed images <br/>
 <img src="https://github.com/Shantanu48114860/Deep_Colorization/blob/master/Report_Supplementary/tanh.jpg">
-
-## Project Report
-The detailed report will be found at [here](https://github.com/Shantanu48114860/Deep_Colorization/blob/master/Report.pdf).
 
 
 ## Contributors
