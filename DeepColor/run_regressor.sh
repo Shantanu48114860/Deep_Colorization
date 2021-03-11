@@ -8,10 +8,10 @@
 
 #SBATCH --output=Regressor_log_%j.out   # Standard output and error log
 
-#SBATCH --account=cis6930
-#SBATCH --qos=cis6930
 #SBATCH --partition=gpu
 #SBATCH --gpus=tesla:1
+#SBATCH  --account=butler
+#SBATCH  --qos=butler
 
 pwd; hostname; date
 
